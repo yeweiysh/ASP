@@ -1,0 +1,7 @@
+scipy==1.5.4
+numpy==1.19.5
+igraph==0.9.11
+networkx==2.5.1
+POT==0.8.2
+sklearn==0.24.2
+gensim==3.8.3
